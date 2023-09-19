@@ -10,7 +10,7 @@ I'm insoucia, a web development intern at [Bay Valley Tech](https://www.linkedin
 
 🤝 I’m looking to contribute to open-source projects related to web development.
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/)](https://www.linkedin.com/in/daniel-tavares-19ab573a/)
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/)(https://www.linkedin.com/in/daniel-tavares-19ab573a/)
 
 😄 Fun fact: Outside of coding, I have a deep interest in the world of animation!
 
